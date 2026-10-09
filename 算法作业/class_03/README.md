@@ -6,3 +6,9 @@
 
 ## 收获
 学会头文件与源文件的使用
+
+## 文件职责
+cmakelist.txt指导cmakeke构建项目
+main.cpp是主函数 进行运行
+MarkerManager.h是头文件用于声明类和函数
+MarkerManager.cpp是源文件用于写函数内容
